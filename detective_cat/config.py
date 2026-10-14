@@ -1,0 +1,2 @@
+BOARD_SIZE = 5
+MAX_MOVES = 12
